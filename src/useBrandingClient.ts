@@ -1,4 +1,4 @@
 export const useBrandingClient = () => {
 
-  return "Sparrow";
+  return "Client2";
 }

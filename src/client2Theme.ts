@@ -1,6 +1,6 @@
 
 
-export const sparrowTheme = {
+export const client2Theme = {
   color: {
     primary: 'blue',
   }
